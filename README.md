@@ -1,2 +1,6 @@
-# sprint-1
-Criar repositorio para compartilhar com meus colegas de estudo
+# Projeto Integrador
+
+Site de Empresa de Turismo
+Nome da Empresa: Aventura Global Viagens
+Ramo de Atuação: Empresa voltada a turismo de aventura e ecoturismo
+Produtos: Venda de pacotes de viagens, venda de passagens aéreas e reservas de hotéis
